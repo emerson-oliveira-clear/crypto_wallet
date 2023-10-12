@@ -1,6 +1,6 @@
 module ApplicationHelper
 
-    def locale(locale)
+    def locale
         I18n.locale == :en ? "Estados unidos" :     "Portugues do Brasil"
     end
 

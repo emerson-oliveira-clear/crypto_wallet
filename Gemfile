@@ -50,6 +50,19 @@ gem "tty-spinner"
 
 gem 'rails-i18n'
 
+gem 'uglifier'
+
+gem 'coffee-rails'
+
+gem 'sass-rails'
+
+gem 'turbolinks'
+
+
+
+
+
+
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri mswin mswin64 mingw x64_mingw ]

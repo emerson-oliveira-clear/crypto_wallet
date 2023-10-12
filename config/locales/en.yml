@@ -28,5 +28,11 @@
 #       enabled: "ON"
 
 en:
+  actual_locale: "Ingles EUA"
   hello: "Hello world"
+  links: 
+    edit: "Edit"
+    show: "show"
+    delete: "Delele"
 
+  
